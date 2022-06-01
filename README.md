@@ -22,7 +22,7 @@
 
 ## Usage
 
-- run `npm sun start` in the `./simple-web-scraper` folder
+- run `npm run start` in the `./simple-web-scraper` folder
 
 ## Details
 
